@@ -1,0 +1,47 @@
+{
+  "Sun": {
+    "exalted": 9,
+    "debilitated": 3,
+    "own_sign": [0]
+  },
+  "Moon": {
+    "exalted": 3,
+    "debilitated": 9,
+    "own_sign": [1]
+  },
+  "Mars": {
+    "exalted": 0,
+    "debilitated": 6,
+    "own_sign": [3, 10]
+  },
+  "Mercury": {
+    "exalted": 1,
+    "debilitated": 8,
+    "own_sign": [2, 5]
+  },
+  "Jupiter": {
+    "exalted": 4,
+    "debilitated": 9,
+    "own_sign": [4, 5]
+  },
+  "Venus": {
+    "exalted": 6,
+    "debilitated": 2,
+    "own_sign": [6, 7]
+  },
+  "Saturn": {
+    "exalted": 6,
+    "debilitated": 3,
+    "own_sign": [8, 9]
+  },
+  "Rahu": {
+    "exalted": null,
+    "debilitated": null,
+    "own_sign": []
+  },
+  "Ketu": {
+    "exalted": null,
+    "debilitated": null,
+    "own_sign": []
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Gajakesari Yoga": {
+    "conditions": [
+      {"house": 1, "planets": ["Moon", "Jupiter"]},
+      {"house": 4, "planets": ["Moon", "Jupiter"]}
+    ]
+  },
+  "Neechabhanga Yoga": {
+    "conditions": [
+      {"house": 6, "planets": ["Jupiter"]}
+    ]
+  },
+  "Budha-Aditya Yoga": {
+    "conditions": [
+      {"house": 1, "planets": ["Sun", "Mercury"]}
+    ]
+  }
+}

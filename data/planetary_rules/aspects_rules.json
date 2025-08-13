@@ -1,0 +1,11 @@
+{
+  "Sun": {"conjunctions": ["Moon", "Mars"], "trine": ["Jupiter", "Venus"]},
+  "Moon": {"conjunctions": ["Sun", "Mercury"], "trine": ["Saturn", "Mars"]},
+  "Mars": {"conjunctions": ["Sun", "Moon"], "opposition": ["Saturn"]},
+  "Mercury": {"conjunctions": ["Moon", "Venus"], "trine": ["Jupiter"]},
+  "Jupiter": {"conjunctions": ["Sun", "Moon"], "trine": ["Mars", "Venus"]},
+  "Venus": {"conjunctions": ["Mercury"], "trine": ["Jupiter"]},
+  "Saturn": {"conjunctions": ["Rahu"], "opposition": ["Mars"]},
+  "Rahu": {"conjunctions": ["Saturn"], "opposition": ["Ketu"]},
+  "Ketu": {"conjunctions": ["None"], "opposition": ["Rahu"]}
+}
